@@ -3,6 +3,9 @@
 A MATLAB tool for designing and visualizing satellite missions around 
 exoplanets, inspired by real aerospace engineering and exoplanet research.
 
+![Earth Mission](screenshots/Earth_Mission_Screenshot.png)
+![TOI-1347b Mission](screenshots/TOI-1347b_Mission_Screenshot.png)
+
 ---
 
 ## Background
