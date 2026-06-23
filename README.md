@@ -67,8 +67,8 @@ orbital mechanics, real exoplanet data, and mission planning into one tool.
 
 | Planet | Radius | Mass | Rotation Period |
 |---|---|---|---|
-| Earth | 1.0 R⊕ | 1.0 M⊕ | 24 hr |
-| TOI-1347b | 1.8 R⊕ | 11.1 M⊕ | 20.3 hr |
+| Earth | 1.0 R | 1.0 M | 24 hr |
+| TOI-1347b | 1.8 R | 11.1 M | 20.3 hr |
 | Custom | User defined | User defined | User defined |
 
 ---
